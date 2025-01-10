@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DagnysBakeryAPI", "DagnysBakeryAPI.csproj", "{F16B5F06-64FF-4FD0-A40C-E1D39FEA848F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F16B5F06-64FF-4FD0-A40C-E1D39FEA848F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F16B5F06-64FF-4FD0-A40C-E1D39FEA848F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F16B5F06-64FF-4FD0-A40C-E1D39FEA848F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F16B5F06-64FF-4FD0-A40C-E1D39FEA848F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2A360C99-3FEC-4653-A4F8-D5B5AB5DCB80}
+	EndGlobalSection
+EndGlobal
